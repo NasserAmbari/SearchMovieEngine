@@ -7,3 +7,5 @@ Just simple Apps to Search Movie title, Just Title
 - React DOM
 - Component Style
 - Framer Motion
+
+>"Enak pakai react hooks dah lebih rapii gitu :)" 

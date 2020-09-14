@@ -1,2 +1,9 @@
 # SearchMovieEngine
-This Project using React.js
+This Project use Class Component React
+Just simple Apps to Search Movie title, Just Title
+
+# What Im Using
+- React
+- React DOM
+- Component Style
+- Framer Motion

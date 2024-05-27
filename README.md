@@ -9,6 +9,3 @@ Just simple Apps to Search Movie title, Just Title
 - Framer Motion
 
 -------------
-
->"Enak pakai react hooks dah lebih rapii gitu :)" 
-***Ahmad Nasser Ambari (Progammer Cupu)*** 
